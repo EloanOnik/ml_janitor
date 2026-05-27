@@ -7,7 +7,7 @@
 ## Установка
 
 ```bash
-pip install ml_janitor
+pip install git+https://github.com/EloanOnik/ml_janitor
 ```
 
 Или установка из исходников:
